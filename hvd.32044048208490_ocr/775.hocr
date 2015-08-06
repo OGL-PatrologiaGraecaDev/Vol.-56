@@ -1,0 +1,36 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/56/hvd.32044048208490/775.png"; bbox 0 0 2025 3100; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1825 1618 1837 2242">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1829 1618 1836 1952">
+     <span class='ocr_line' id='line_1_1' title="bbox 1832 1618 1836 1739; baseline 0 -20"><span class='ocrx_word' id='word_1_1' title='bbox 1832 1618 1836 1719; x_wconf 65' lang='grc' dir='ltr'>ί</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1829 1810 1832 1952; baseline 0 -51"><span class='ocrx_word' id='word_1_2' title='bbox 1829 1810 1832 1901; x_wconf 66' lang='grc' dir='ltr'><em>ι</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2020 3092">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 164 284 1829 3076">
+     <span class='ocr_line' id='line_1_3' title="bbox 164 284 344 545; baseline 0 -107"><span class='ocrx_word' id='word_1_3' title='bbox 164 284 344 545; x_wconf 46' lang='grc' dir='ltr'><em>Σ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 396 767 701 1086; baseline 0.01 -50"><span class='ocrx_word' id='word_1_4' title='bbox 396 767 695 1086; x_wconf 46' lang='grc' dir='ltr'>δέ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 512 1092 742 1361; baseline 0 -113"><span class='ocrx_word' id='word_1_5' title='bbox 512 1092 739 1361; x_wconf 45' lang='grc' dir='ltr'>Ο)</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1824 1991 1829 2216; baseline 0 -29"><span class='ocrx_word' id='word_1_6' title='bbox 1825 2029 1829 2176; x_wconf 66' lang='grc' dir='ltr'><strong>ί</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 1823 2217 1827 2324; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 1823 2217 1827 2324; x_wconf 76' lang='grc' dir='ltr'><strong>Ι</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 277 2325 1827 2824; baseline 0.005 -282"><span class='ocrx_word' id='word_1_8' title='bbox 277 2427 1684 2677; x_wconf 66' lang='grc' dir='ltr'>...ι-..ΙΙΙιξ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 1811 2972 1821 3076; baseline 0 -93"><span class='ocrx_word' id='word_1_9' title='bbox 1811 2972 1821 3076; x_wconf 44' lang='grc' dir='ltr'>ι..</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1815 2396 1824 2935">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1815 2396 1824 2928">
+     <span class='ocr_line' id='line_1_10' title="bbox 1821 2396 1824 2465; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 1821 2396 1824 2465; x_wconf 65' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 1815 2850 1817 2928; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 1815 2850 1817 2928; x_wconf 62' lang='lat'>1</span> 
+     </span>
+    </p>
+   </div>
+  </div>
